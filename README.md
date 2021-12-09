@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew Fleckney
 - 👀 I’m interested in programming and web design
 - 🌱 I’m currently enrolled in the first year CIT program at Lethbridge College
-- 📫 You can reach me at matthew.fleckney@lethbridgecollege.ca or @Tobishima#8215 on Discord
+- 📫 You can reach me at matthew.fleckney@lethbridgecollege.ca
 
 <!---
 mfleckney/mfleckney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
