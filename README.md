@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Fleckney
+- 👋 Hi, I’m Claire Poulsen
 - 👀 I’m interested in programming and web design
 - 🌱 I’m currently enrolled in the first year CIT program at Lethbridge College
 - 📫 You can reach me at matthew.fleckney@lethbridgecollege.ca
